@@ -41,19 +41,19 @@ The IRIS dataset is one of the most popular datasets in pattern recognition lite
         During the training and test split, 70% was used for training and 30% for testing purposes.
         30% of 150 is 45. That’s the reason the total support count is 45.
 
-        1) Naive Bayes Algorithm** : Depending on the output, among the 45, there are 13 Iris Setosa, 18 Iris 
+        1) Naive Bayes Algorithm: Depending on the output, among the 45, there are 13 Iris Setosa, 18 Iris 
         Virginica, and 14 Iris Versicolor. The same number has been reflected during the 
         prediction evaluations in the confusion matrix.
         
-        2) KNN Algorithm:** Depending on the output, among the 45, there are 14 Iris Setosa, 16 Iris 
+        2) KNN Algorithm: Depending on the output, among the 45, there are 14 Iris Setosa, 16 Iris 
         Virginica, and 15 Iris Versicolor. The same number has been reflected during the 
         prediction evaluations in the confusion matrix.
         
-        3) Decision Tree Algorithm:** Depending on the output, among the 45, there are 14 Iris Setosa, 23 Iris 
+        3) Decision Tree Algorithm: Depending on the output, among the 45, there are 14 Iris Setosa, 23 Iris 
         Virginica, and 8 Iris Versicolor. The same number has been reflected during the 
         prediction evaluations in the confusion matrix.
         
-        4) Support Vector Machines(SVM):** Depending on the output, among the 45, there are 15 Iris Setosa, 24 Iris 
+        4) Support Vector Machines(SVM): Depending on the output, among the 45, there are 15 Iris Setosa, 24 Iris 
         Virginica, and 16 Iris Versicolor. The same number has been reflected during the 
         prediction evaluations in the confusion matrix.
 
